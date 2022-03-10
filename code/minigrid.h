@@ -1,0 +1,1 @@
+#define MINIGRIDSIZE 5
